@@ -1,0 +1,10 @@
+Hi <firstname>,
+
+I hope you’re having a great day and this email finds you well.
+        
+My name is Tirthankar Mittra, a graduate of Computer Science from the University Of Colorado Boulder. I'm passionate about designing backend scalable systems and have expertise in diverse areas such as machine learning and network protocol stack, I have four years of professional experience as a software developer at leading companies like Samsung and Qualcomm.
+        
+I’ve been intrigued by an open job opportunity at <company>, and your expertise in the role looks appealing. Would you please share the expectations from the job role and the responsibilities involved with me, over a quick video call? Your knowledge and guidance would be a great encouragement for me. Let me know and I could share my resume along with the job role I’m interested in.
+        
+Talk to you soon.
+Warm regards,

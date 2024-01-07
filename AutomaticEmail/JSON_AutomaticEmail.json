@@ -1,0 +1,22 @@
+{
+    "subject": "EMAIL SUBJECT",
+    "sender": "mitracscareers@gmail.com",
+    "recipients": [
+                    {
+                        "name": "Mitra_Orig",
+                        "company": "India",
+                        "email": "tirthankarmittra@gmail.com",
+                        "body": "Informational_Email_Template.txt",
+                        "subject": "Information Email 1."
+                    },
+                    {
+                        "name": "Mitra_Cu",
+                        "company": "CU Boulder",
+                        "email": "timi5773@colorado.edu",
+                        "body": "Informational_Email_Template.txt",
+                        "subject": "Information Email 2."
+                    }
+                ],
+    "password": "wvsc deqw rnlb vkhc",
+    "password_old": "jobHunt@356"
+}
